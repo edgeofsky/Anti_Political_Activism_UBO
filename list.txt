@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 0.0.1
+! Title: Anti Political Activism List
+! Updated: 2021-07-17 23:00 UTC
+! Expires: 30 days (update frequency)
+
+www.rstudio.com###alert-new
+www.youtube.com###dismissible > .ytd-statement-banner-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
